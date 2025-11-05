@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/atulpandey2626/leetcode/tree/master/0014-longest-common-prefix) |
+| [0290-word-pattern](https://github.com/atulpandey2626/leetcode/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/atulpandey2626/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/atulpandey2626/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/atulpandey2626/leetcode/tree/master/0290-word-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
