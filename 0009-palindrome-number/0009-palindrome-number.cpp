@@ -1,18 +1,17 @@
 class Solution {
 public:
+long long num = 0;
     bool isPalindrome(int x) {
-        // Negative numbers are not palindromes
-        if (x < 0) return false;
+        int a = x;
+        while(x>0)
+       { int y = x%10;
+        num = num*10 + y;
+        x = x/10;
+} if (num == a)
+return true;
+else
+return false;
 
-        int original = x;
-        long rev = 0;  // use long to avoid overflow
-
-        while (x != 0) {
-            int digit = x % 10;
-            rev = rev * 10 + digit;
-            x = x / 10;
-        }
-
-        return (rev == original);
+        
     }
 };
