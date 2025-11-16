@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/atulpandey2626/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/atulpandey2626/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/atulpandey2626/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/atulpandey2626/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/atulpandey2626/leetcode/tree/master/0268-missing-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atulpandey2626/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atulpandey2626/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/atulpandey2626/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/atulpandey2626/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/atulpandey2626/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/atulpandey2626/leetcode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atulpandey2626/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/atulpandey2626/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/atulpandey2626/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/atulpandey2626/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/atulpandey2626/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/atulpandey2626/leetcode/tree/master/0290-word-pattern) |
 ## Divide and Conquer
