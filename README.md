@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atulpandey2626/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/atulpandey2626/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/atulpandey2626/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/atulpandey2626/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/atulpandey2626/leetcode/tree/master/0035-search-insert-position) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/atulpandey2626/leetcode/tree/master/0011-container-with-most-water) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atulpandey2626/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/atulpandey2626/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/atulpandey2626/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/atulpandey2626/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/atulpandey2626/leetcode/tree/master/0349-intersection-of-two-arrays) |
