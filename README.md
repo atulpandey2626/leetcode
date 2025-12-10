@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/atulpandey2626/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/atulpandey2626/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/atulpandey2626/leetcode/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/atulpandey2626/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/atulpandey2626/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/atulpandey2626/leetcode/tree/master/0088-merge-sorted-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atulpandey2626/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/atulpandey2626/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/atulpandey2626/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
