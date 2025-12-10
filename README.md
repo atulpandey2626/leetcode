@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/atulpandey2626/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/atulpandey2626/leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/atulpandey2626/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/atulpandey2626/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/atulpandey2626/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/atulpandey2626/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/atulpandey2626/leetcode/tree/master/0169-majority-element) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/atulpandey2626/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/atulpandey2626/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/atulpandey2626/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/atulpandey2626/leetcode/tree/master/0217-contains-duplicate) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/atulpandey2626/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atulpandey2626/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/atulpandey2626/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/atulpandey2626/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/atulpandey2626/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/atulpandey2626/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/atulpandey2626/leetcode/tree/master/0283-move-zeroes) |
