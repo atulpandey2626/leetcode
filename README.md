@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/atulpandey2626/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/atulpandey2626/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/atulpandey2626/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/atulpandey2626/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/atulpandey2626/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/atulpandey2626/leetcode/tree/master/0088-merge-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/atulpandey2626/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/atulpandey2626/leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atulpandey2626/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/atulpandey2626/leetcode/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/atulpandey2626/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
