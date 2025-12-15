@@ -6,18 +6,14 @@ public:
             if(nums[i]==0){
                 swap(nums[i],nums[j]);
                 j++;
-            } 
-            };
-            for(int i = j;i<nums.size();i++){
-                if(nums[i]==1){
-                   
-                
-                    swap(nums[i],nums[j]);
-                   j++;
-
-                }
             }
-            
-        
+        }
+        for(int i = j;i<nums.size();i++){
+            if(nums[i]==1){
+                swap(nums[i],nums[j]);
+                j++;
+            }
+        }
+
     }
 };
