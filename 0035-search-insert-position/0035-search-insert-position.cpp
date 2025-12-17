@@ -12,7 +12,7 @@ public:
                 high =mid-1;
                 a = high+1;
             } else {
-                low=low+1;
+                low=mid+1;
                 a = low;
             }
         }
