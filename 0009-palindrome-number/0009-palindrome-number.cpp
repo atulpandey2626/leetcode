@@ -2,15 +2,16 @@ class Solution {
 public:
     bool isPalindrome(int x) {
         int k = x;
-        long long rev = 0;
+        long long z = 0;
         while(x>0){
-            int j = x%10;
+            int y = x%10;
+            z = z*10 + y;
             x = x/10;
-            rev = rev*10 + j;
         }
-        if(k == rev)
+        if(z==k)
         return true;
-        else
+
         return false;
+        
     }
 };
