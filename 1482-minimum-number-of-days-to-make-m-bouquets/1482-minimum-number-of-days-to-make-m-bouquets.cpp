@@ -1,39 +1,51 @@
 class Solution {
 public:
-int fun(vector<int>& bloomDay, int m, int k,int mid){
-     int b =k;
-    for(int i =0;i<bloomDay.size();i++){
-        if(bloomDay[i]<=mid){
-            b--;
-            if(b==0){
-                m--;
-                if(m==0)
-                return m;
-                b = k;
+    bool canMake(vector<int>& bloomDay, int m, int k, int day) {
+
+        int flowers = 0;
+        int bouquets = 0;
+
+        for (int bloom : bloomDay) {
+
+            if (bloom <= day) {
+                flowers++;
+
+                if (flowers == k) {
+                    bouquets++;
+                    flowers = 0;
+                }
             }
-        } else b =k;
-
-    }
-    return m;
-
-}
-    int minDays(vector<int>& bloomDay, int m, int k) {
-        long long v = (long long)m*k;
-        if(v>bloomDay.size())
-        return -1;
-        int n = -1;
-        int low= *min_element(bloomDay.begin(),bloomDay.end());
-        int high= *max_element(bloomDay.begin(),bloomDay.end());
-        while(low<=high){
-            int mid = (low+high)/2;
-            int b = fun(bloomDay,m,k,mid);
-            if(b==0){
-                n =mid;
-                high =mid-1;
-            } else low=mid+1;
-
+            else {
+                flowers = 0;
+            }
         }
-        return n;
-        
+
+        return bouquets >= m;
+    }
+
+    int minDays(vector<int>& bloomDay, int m, int k) {
+
+        if ((long long)m * k > bloomDay.size())
+            return -1;
+
+        int low = *min_element(bloomDay.begin(), bloomDay.end());
+        int high = *max_element(bloomDay.begin(), bloomDay.end());
+
+        int ans = high;
+
+        while (low <= high) {
+
+            int mid = low + (high - low) / 2;
+
+            if (canMake(bloomDay, m, k, mid)) {
+                ans = mid;
+                high = mid - 1;
+            }
+            else {
+                low = mid + 1;
+            }
+        }
+
+        return ans;
     }
 };
