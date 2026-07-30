@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/atulpandey2626/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atulpandey2626/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/atulpandey2626/leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/atulpandey2626/leetcode/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/atulpandey2626/leetcode/tree/master/0290-word-pattern) |
 | [0583-delete-operation-for-two-strings](https://github.com/atulpandey2626/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/atulpandey2626/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/atulpandey2626/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atulpandey2626/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/atulpandey2626/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/atulpandey2626/leetcode/tree/master/0416-partition-equal-subset-sum) |
