@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/atulpandey2626/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/atulpandey2626/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/atulpandey2626/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/atulpandey2626/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/atulpandey2626/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/atulpandey2626/leetcode/tree/master/0075-sort-colors) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/atulpandey2626/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/atulpandey2626/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/atulpandey2626/leetcode/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atulpandey2626/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/atulpandey2626/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/atulpandey2626/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/atulpandey2626/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atulpandey2626/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
