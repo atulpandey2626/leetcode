@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/atulpandey2626/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/atulpandey2626/leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0860-lemonade-change](https://github.com/atulpandey2626/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/atulpandey2626/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atulpandey2626/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/atulpandey2626/leetcode/tree/master/1035-uncrossed-lines) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/atulpandey2626/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/atulpandey2626/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/atulpandey2626/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/atulpandey2626/leetcode/tree/master/0860-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atulpandey2626/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
