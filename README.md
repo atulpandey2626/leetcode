@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/atulpandey2626/leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0860-lemonade-change](https://github.com/atulpandey2626/leetcode/tree/master/0860-lemonade-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/atulpandey2626/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/atulpandey2626/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/atulpandey2626/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atulpandey2626/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/atulpandey2626/leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/atulpandey2626/leetcode/tree/master/0630-course-schedule-iii) |
 | [0860-lemonade-change](https://github.com/atulpandey2626/leetcode/tree/master/0860-lemonade-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/atulpandey2626/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atulpandey2626/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2895-minimum-processing-time](https://github.com/atulpandey2626/leetcode/tree/master/2895-minimum-processing-time) |
 ## Sliding Window
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/atulpandey2626/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/atulpandey2626/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/atulpandey2626/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1013-fibonacci-number](https://github.com/atulpandey2626/leetcode/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/atulpandey2626/leetcode/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/atulpandey2626/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/atulpandey2626/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0630-course-schedule-iii](https://github.com/atulpandey2626/leetcode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/atulpandey2626/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/atulpandey2626/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
