@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/atulpandey2626/leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/atulpandey2626/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/atulpandey2626/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/atulpandey2626/leetcode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/atulpandey2626/leetcode/tree/master/0704-binary-search) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/atulpandey2626/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/atulpandey2626/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/atulpandey2626/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/atulpandey2626/leetcode/tree/master/0630-course-schedule-iii) |
 | [0670-maximum-swap](https://github.com/atulpandey2626/leetcode/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/atulpandey2626/leetcode/tree/master/0860-lemonade-change) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/atulpandey2626/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/atulpandey2626/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/atulpandey2626/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/atulpandey2626/leetcode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/atulpandey2626/leetcode/tree/master/0881-boats-to-save-people) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/atulpandey2626/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/atulpandey2626/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/atulpandey2626/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/atulpandey2626/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/atulpandey2626/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/atulpandey2626/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Bit Manipulation
 |  |
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/atulpandey2626/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/atulpandey2626/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/atulpandey2626/leetcode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/atulpandey2626/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
