@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atulpandey2626/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/atulpandey2626/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/atulpandey2626/leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/atulpandey2626/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/atulpandey2626/leetcode/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/atulpandey2626/leetcode/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atulpandey2626/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/atulpandey2626/leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/atulpandey2626/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/atulpandey2626/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atulpandey2626/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/atulpandey2626/leetcode/tree/master/0322-coin-change) |
