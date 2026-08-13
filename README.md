@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/atulpandey2626/leetcode/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/atulpandey2626/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/atulpandey2626/leetcode/tree/master/1013-fibonacci-number) |
+| [2266-count-number-of-texts](https://github.com/atulpandey2626/leetcode/tree/master/2266-count-number-of-texts) |
 ## Array
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/atulpandey2626/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/atulpandey2626/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2266-count-number-of-texts](https://github.com/atulpandey2626/leetcode/tree/master/2266-count-number-of-texts) |
 ## Trie
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/atulpandey2626/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2266-count-number-of-texts](https://github.com/atulpandey2626/leetcode/tree/master/2266-count-number-of-texts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/atulpandey2626/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/atulpandey2626/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2266-count-number-of-texts](https://github.com/atulpandey2626/leetcode/tree/master/2266-count-number-of-texts) |
 | [2466-count-ways-to-build-good-strings](https://github.com/atulpandey2626/leetcode/tree/master/2466-count-ways-to-build-good-strings) |
 ## Recursion
 |  |
