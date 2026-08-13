@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/atulpandey2626/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/atulpandey2626/leetcode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atulpandey2626/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/atulpandey2626/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/atulpandey2626/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/atulpandey2626/leetcode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/atulpandey2626/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2266-count-number-of-texts](https://github.com/atulpandey2626/leetcode/tree/master/2266-count-number-of-texts) |
 | [2466-count-ways-to-build-good-strings](https://github.com/atulpandey2626/leetcode/tree/master/2466-count-ways-to-build-good-strings) |
