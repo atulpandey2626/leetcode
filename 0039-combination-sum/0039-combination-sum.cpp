@@ -1,26 +1,28 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    void backtrack(vector<int>& candidates, int target, vector<int>& curr, vector<vector<int>>& ans, int start) {
-        if (target == 0) {
-            ans.push_back(curr);
-            return;
-        }
-        if (target < 0) return;
+void solve(int i,int sum,int target,vector<int>& candidates, vector<vector<int>> &v,vector<int> &a){
+       if(i>=candidates.size())
+       return;
+        if(sum == target)
+        {v.push_back(a);
+        return;}
+        
+        if(sum>target)
+        return;
+        if(candidates[i]<=target)
+        {a.push_back(candidates[i]);
+        solve(i,sum+candidates[i],target,candidates,v,a);
+        a.pop_back();}
+        solve(i+1,sum,target,candidates,v,a);
 
-        for (int i = start; i < candidates.size(); i++) {
-            curr.push_back(candidates[i]);
-            backtrack(candidates, target - candidates[i], curr, ans, i); // reuse allowed
-            curr.pop_back(); // backtrack
-        }
-    }
 
+}
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        vector<int> curr;
-        backtrack(candidates, target, curr, ans, 0);
-        return ans;
+        vector<vector<int>> v;
+        vector<int> a;
+        solve(0,0,target,candidates,v,a);
+        return v;
+
+        
     }
 };
