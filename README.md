@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/atulpandey2626/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/atulpandey2626/leetcode/tree/master/1013-fibonacci-number) |
 | [2266-count-number-of-texts](https://github.com/atulpandey2626/leetcode/tree/master/2266-count-number-of-texts) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/atulpandey2626/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atulpandey2626/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/atulpandey2626/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atulpandey2626/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/atulpandey2626/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2895-minimum-processing-time](https://github.com/atulpandey2626/leetcode/tree/master/2895-minimum-processing-time) |
 ## Binary Search
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/atulpandey2626/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulpandey2626/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atulpandey2626/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/atulpandey2626/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2895-minimum-processing-time](https://github.com/atulpandey2626/leetcode/tree/master/2895-minimum-processing-time) |
 ## Sliding Window
 |  |
