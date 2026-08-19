@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/atulpandey2626/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/atulpandey2626/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/atulpandey2626/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/atulpandey2626/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/atulpandey2626/leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/atulpandey2626/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/atulpandey2626/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/atulpandey2626/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/atulpandey2626/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/atulpandey2626/leetcode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/atulpandey2626/leetcode/tree/master/0494-target-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/atulpandey2626/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/atulpandey2626/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/atulpandey2626/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/atulpandey2626/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/atulpandey2626/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/atulpandey2626/leetcode/tree/master/0518-coin-change-ii) |
@@ -415,4 +418,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/atulpandey2626/leetcode/tree/master/0051-n-queens) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/atulpandey2626/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/atulpandey2626/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
