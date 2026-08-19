@@ -421,9 +421,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/atulpandey2626/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/atulpandey2626/leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/atulpandey2626/leetcode/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/atulpandey2626/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
