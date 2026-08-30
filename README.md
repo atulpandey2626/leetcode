@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/atulpandey2626/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/atulpandey2626/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/atulpandey2626/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/atulpandey2626/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/atulpandey2626/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/atulpandey2626/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/atulpandey2626/leetcode/tree/master/0075-sort-colors) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/atulpandey2626/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/atulpandey2626/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/atulpandey2626/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/atulpandey2626/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/atulpandey2626/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/atulpandey2626/leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/atulpandey2626/leetcode/tree/master/0087-scramble-string) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/atulpandey2626/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/atulpandey2626/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/atulpandey2626/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/atulpandey2626/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/atulpandey2626/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1901-find-a-peak-element-ii](https://github.com/atulpandey2626/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Union Find
