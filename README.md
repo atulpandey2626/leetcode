@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/atulpandey2626/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/atulpandey2626/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/atulpandey2626/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/atulpandey2626/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/atulpandey2626/leetcode/tree/master/0455-assign-cookies) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/atulpandey2626/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/atulpandey2626/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atulpandey2626/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/atulpandey2626/leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/atulpandey2626/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/atulpandey2626/leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/atulpandey2626/leetcode/tree/master/0087-scramble-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/atulpandey2626/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/atulpandey2626/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/atulpandey2626/leetcode/tree/master/0055-jump-game) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/atulpandey2626/leetcode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/atulpandey2626/leetcode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/atulpandey2626/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/atulpandey2626/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/atulpandey2626/leetcode/tree/master/1013-fibonacci-number) |
