@@ -1,0 +1,20 @@
+class Solution {
+public:
+int solve(int i,int j,vector<int>& prices, int fee, vector<vector<int>> & dp){
+    if(i==prices.size())
+    return 0;
+    if(dp[i][j]!=-1)
+    return dp[i][j];
+    if(j==0)
+    return dp[i][j] = max(-prices[i] + solve(i+1,1,prices,fee,dp),solve(i+1,0,prices,fee,dp));
+    else 
+    return dp[i][j] = max(prices[i] - fee + solve(i+1,0,prices,fee,dp),solve(i+1,1,prices,fee,dp));
+
+}
+    int maxProfit(vector<int>& prices, int fee) {
+        int n = prices.size();
+        vector<vector<int>> dp (n,vector<int>(2,-1));
+        return solve(0,0,prices,fee,dp);
+        
+    }
+};
