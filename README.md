@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/atulpandey2626/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/atulpandey2626/leetcode/tree/master/0630-course-schedule-iii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/atulpandey2626/leetcode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/atulpandey2626/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/atulpandey2626/leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/atulpandey2626/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/atulpandey2626/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/atulpandey2626/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/atulpandey2626/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -478,4 +480,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/atulpandey2626/leetcode/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
