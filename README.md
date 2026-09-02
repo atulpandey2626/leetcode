@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/atulpandey2626/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atulpandey2626/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/atulpandey2626/leetcode/tree/master/1035-uncrossed-lines) |
+| [1043-partition-array-for-maximum-sum](https://github.com/atulpandey2626/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/atulpandey2626/leetcode/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/atulpandey2626/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/atulpandey2626/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-knight-dialer](https://github.com/atulpandey2626/leetcode/tree/master/0935-knight-dialer) |
 | [1013-fibonacci-number](https://github.com/atulpandey2626/leetcode/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/atulpandey2626/leetcode/tree/master/1035-uncrossed-lines) |
+| [1043-partition-array-for-maximum-sum](https://github.com/atulpandey2626/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/atulpandey2626/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/atulpandey2626/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/1143-longest-common-subsequence) |
