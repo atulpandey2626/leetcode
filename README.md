@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/atulpandey2626/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/atulpandey2626/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/atulpandey2626/leetcode/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/atulpandey2626/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/atulpandey2626/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0290-word-pattern](https://github.com/atulpandey2626/leetcode/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/atulpandey2626/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/atulpandey2626/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/atulpandey2626/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/atulpandey2626/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/atulpandey2626/leetcode/tree/master/0494-target-sum) |
 ## Simulation
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atulpandey2626/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atulpandey2626/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/atulpandey2626/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/atulpandey2626/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/atulpandey2626/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/atulpandey2626/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/atulpandey2626/leetcode/tree/master/0198-house-robber) |
