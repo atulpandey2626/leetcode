@@ -1,56 +1,31 @@
 class Solution {
 public:
-    int dp[2001][2001];
-    bool pal[2001][2001];
-
-    void makePalindrome(string &s) {
-        int n = s.size();
-
-        for(int i = n - 1; i >= 0; i--) {
-            for(int j = i; j < n; j++) {
-
-                if(s[i] == s[j] &&
-                   (j - i <= 1 || pal[i + 1][j - 1])) {
-                    pal[i][j] = true;
-                }
-            }
-        }
+bool ispalindrome(int i,int k,string &s){
+    while(i<k){
+        if(s[i]!=s[k])
+        return false;
+        else
+        i++;
+        k--;
     }
-
-    int solve(int i, int j, string &s) {
-
-        if(i >= j)
-            return 0;
-
-        if(pal[i][j])
-            return 0;
-
-        if(dp[i][j] != -1)
-            return dp[i][j];
-
-        int ans = INT_MAX;
-
-        for(int k = i; k < j; k++) {
-
-            
-            if(pal[i][k]) {
-
-                int right = solve(k + 1, j, s);
-
-                ans = min(ans, 1 + right);
-            }
-        }
-
-        return dp[i][j] = ans;
+    return true;
+}
+int solve(int i,string &s, vector<int> &dp){
+    if(i == s.size())
+    return 0;
+    if(dp[i] != -1)
+    return dp[i];
+    int a = INT_MAX;
+    for(int k = i;k<s.size();k++){
+        if(ispalindrome(i,k,s))
+        {int v = 1 + solve(k+1,s,dp);
+        a = min(a,v);}
     }
-
+    return dp[i] = a;
+}
     int minCut(string s) {
-
-        memset(dp, -1, sizeof(dp));
-        memset(pal, false, sizeof(pal));
-
-        makePalindrome(s);
-
-        return solve(0, s.size() - 1, s);
+        vector<int> dp(s.size() + 1,-1);
+        return solve(0,s,dp) - 1;
+        
     }
 };
