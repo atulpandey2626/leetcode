@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atulpandey2626/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/atulpandey2626/leetcode/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/atulpandey2626/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1046-last-stone-weight](https://github.com/atulpandey2626/leetcode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/atulpandey2626/leetcode/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/atulpandey2626/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/atulpandey2626/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/atulpandey2626/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/atulpandey2626/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/atulpandey2626/leetcode/tree/master/1046-last-stone-weight) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/atulpandey2626/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/atulpandey2626/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 ## Quickselect
