@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/atulpandey2626/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/atulpandey2626/leetcode/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/atulpandey2626/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/atulpandey2626/leetcode/tree/master/0704-binary-search) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/atulpandey2626/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/atulpandey2626/leetcode/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/atulpandey2626/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/atulpandey2626/leetcode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/atulpandey2626/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/atulpandey2626/leetcode/tree/master/0860-lemonade-change) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/atulpandey2626/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/atulpandey2626/leetcode/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/atulpandey2626/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/atulpandey2626/leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/atulpandey2626/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/atulpandey2626/leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/atulpandey2626/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/atulpandey2626/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0646-maximum-length-of-pair-chain](https://github.com/atulpandey2626/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/atulpandey2626/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/atulpandey2626/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -510,5 +514,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/atulpandey2626/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
