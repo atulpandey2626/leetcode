@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/atulpandey2626/leetcode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/atulpandey2626/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/atulpandey2626/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/atulpandey2626/leetcode/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/atulpandey2626/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/atulpandey2626/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/atulpandey2626/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/atulpandey2626/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/atulpandey2626/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/atulpandey2626/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/atulpandey2626/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0887-super-egg-drop](https://github.com/atulpandey2626/leetcode/tree/master/0887-super-egg-drop) |
 | [0935-knight-dialer](https://github.com/atulpandey2626/leetcode/tree/master/0935-knight-dialer) |
