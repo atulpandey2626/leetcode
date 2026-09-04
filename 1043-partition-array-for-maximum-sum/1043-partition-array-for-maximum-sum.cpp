@@ -1,38 +1,25 @@
 class Solution {
 public:
+int solve(int i,int k,vector<int>& arr,vector<int> &dp){
+    if(i==arr.size())
+    return 0;
+    if(dp[i] != -1)
+    return dp[i];
+    int d = INT_MIN;
+    int a = INT_MIN;
+    for(int j = i;j<i+k && j<arr.size();j++){
+        d = max(d,arr[j]);
+        int lengt = j - i + 1;
+        int v = lengt*d + solve(j+1,k,arr,dp);
+        a = max(v,a);
 
-    int solve(int i, vector<int>& arr, int k, vector<int>& dp) {
 
-        if(i == arr.size())
-            return 0;
-
-        if(dp[i] != -1)
-            return dp[i];
-
-        int maxi = 0;
-        int ans = 0;
-
-        // Try partition lengths 1 to k
-        for(int j = i; j < min((int)arr.size(), i + k); j++) {
-
-            maxi = max(maxi, arr[j]);
-
-            int len = j - i + 1;
-
-            int sum = len * maxi + solve(j + 1, arr, k, dp);
-
-            ans = max(ans, sum);
-        }
-
-        return dp[i] = ans;
     }
-
+    return dp[i] = a;
+}
     int maxSumAfterPartitioning(vector<int>& arr, int k) {
-
-        int n = arr.size();
-
-        vector<int> dp(n, -1);
-
-        return solve(0, arr, k, dp);
+        vector<int> dp(arr.size() + 1,-1);
+        return solve(0,k,arr,dp);
+        
     }
 };
