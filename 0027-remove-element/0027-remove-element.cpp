@@ -1,13 +1,18 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
+        int k = 0;
         int j = 0;
-        for (int i = 0; i < (int)nums.size(); ++i) {
-            if (nums[i] != val) nums[j++] = nums[i];
+        int n = nums.size();
+        for(int i = 0;i<n;i++){
+            if(nums[i]!=val){
+                swap(nums[i],nums[k]);
+                k++;
+                j++;
+
+            }
         }
         return j;
+        
     }
 };
