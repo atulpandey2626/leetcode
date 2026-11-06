@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/atulpandey2626/leetcode/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/atulpandey2626/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/atulpandey2626/leetcode/tree/master/1013-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/atulpandey2626/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2266-count-number-of-texts](https://github.com/atulpandey2626/leetcode/tree/master/2266-count-number-of-texts) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/atulpandey2626/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Array
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/atulpandey2626/leetcode/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/atulpandey2626/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/atulpandey2626/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/atulpandey2626/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/atulpandey2626/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/atulpandey2626/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/atulpandey2626/leetcode/tree/master/1383-maximum-performance-of-a-team) |
