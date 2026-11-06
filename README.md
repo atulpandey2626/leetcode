@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/atulpandey2626/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/atulpandey2626/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/atulpandey2626/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/atulpandey2626/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/atulpandey2626/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/atulpandey2626/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1470-shuffle-the-array](https://github.com/atulpandey2626/leetcode/tree/master/1470-shuffle-the-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atulpandey2626/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/atulpandey2626/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/atulpandey2626/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/atulpandey2626/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/atulpandey2626/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/atulpandey2626/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/atulpandey2626/leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/atulpandey2626/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/atulpandey2626/leetcode/tree/master/0463-island-perimeter) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/atulpandey2626/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/atulpandey2626/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/atulpandey2626/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Union Find
 |  |
