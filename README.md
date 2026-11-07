@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/atulpandey2626/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/atulpandey2626/leetcode/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/atulpandey2626/leetcode/tree/master/0941-valid-mountain-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/atulpandey2626/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/atulpandey2626/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atulpandey2626/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/atulpandey2626/leetcode/tree/master/1035-uncrossed-lines) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/atulpandey2626/leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/atulpandey2626/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0944-delete-columns-to-make-sorted](https://github.com/atulpandey2626/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1048-longest-string-chain](https://github.com/atulpandey2626/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/atulpandey2626/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/atulpandey2626/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/atulpandey2626/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0944-delete-columns-to-make-sorted](https://github.com/atulpandey2626/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Manacher
 |  |
 | ------- |
