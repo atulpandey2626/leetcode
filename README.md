@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/atulpandey2626/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/atulpandey2626/leetcode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/atulpandey2626/leetcode/tree/master/1048-longest-string-chain) |
+| [1051-height-checker](https://github.com/atulpandey2626/leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/atulpandey2626/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/atulpandey2626/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/atulpandey2626/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/atulpandey2626/leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/atulpandey2626/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/atulpandey2626/leetcode/tree/master/1048-longest-string-chain) |
+| [1051-height-checker](https://github.com/atulpandey2626/leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/atulpandey2626/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/atulpandey2626/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/atulpandey2626/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -627,4 +629,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/atulpandey2626/leetcode/tree/master/0463-island-perimeter) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/atulpandey2626/leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/atulpandey2626/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
