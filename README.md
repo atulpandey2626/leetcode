@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/atulpandey2626/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atulpandey2626/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/atulpandey2626/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/atulpandey2626/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/atulpandey2626/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/atulpandey2626/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/atulpandey2626/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/atulpandey2626/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulpandey2626/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/atulpandey2626/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/atulpandey2626/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/atulpandey2626/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/atulpandey2626/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2895-minimum-processing-time](https://github.com/atulpandey2626/leetcode/tree/master/2895-minimum-processing-time) |
