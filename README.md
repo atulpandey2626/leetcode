@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/atulpandey2626/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/atulpandey2626/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/atulpandey2626/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/atulpandey2626/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/atulpandey2626/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/atulpandey2626/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulpandey2626/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/atulpandey2626/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1416-restore-the-array](https://github.com/atulpandey2626/leetcode/tree/master/1416-restore-the-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/atulpandey2626/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/atulpandey2626/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2266-count-number-of-texts](https://github.com/atulpandey2626/leetcode/tree/master/2266-count-number-of-texts) |
 ## Trie
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/atulpandey2626/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atulpandey2626/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/atulpandey2626/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/atulpandey2626/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2266-count-number-of-texts](https://github.com/atulpandey2626/leetcode/tree/master/2266-count-number-of-texts) |
 ## Divide and Conquer
 |  |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/atulpandey2626/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/atulpandey2626/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1512-number-of-good-pairs](https://github.com/atulpandey2626/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/atulpandey2626/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/atulpandey2626/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/atulpandey2626/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/atulpandey2626/leetcode/tree/master/0268-missing-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/atulpandey2626/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/atulpandey2626/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Backtracking
 |  |
