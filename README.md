@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/atulpandey2626/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/atulpandey2626/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/atulpandey2626/leetcode/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/atulpandey2626/leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/atulpandey2626/leetcode/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/atulpandey2626/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/atulpandey2626/leetcode/tree/master/0973-k-closest-points-to-origin) |
